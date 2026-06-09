@@ -248,3 +248,70 @@ Unstable particles correspond to:
 - segments crossing into Loop 3.
 
 This gives a geometric method for modeling decay.
+
+## Directional Applications of the Möbius Structure
+
+The Möbius diagram is not only a visual representation — it defines
+**directions of behavior**, **directions of stability**, and **directions
+of transformation**. Each arrow on the diagram corresponds to a real
+structural tendency.
+
+### 1. Direction of Stability (Loop 1 → Loop 2)
+- Movement along Loop 1 and early Loop 2 corresponds to **stable states**.
+- These positions support:
+  - long‑lived configurations,
+  - predictable bonding behavior,
+  - low structural tension.
+- Applications:
+  - modeling stable particles,
+  - identifying “core” structural states,
+  - predicting which configurations can persist.
+
+### 2. Direction of Tension (mid Loop 2)
+- As the path approaches the Tc break point, tension increases.
+- This region marks:
+  - boundary conditions,
+  - transition zones,
+  - states sensitive to perturbation.
+- Applications:
+  - identifying borderline stability,
+  - modeling transition states,
+  - understanding why certain isotopes are rare.
+
+### 3. Direction of Collapse (Loop 3)
+- Loop 3 corresponds to **structural overload**.
+- States here naturally move **downward** toward the closure point.
+- Applications:
+  - modeling decay chains,
+  - predicting collapse pathways,
+  - understanding short‑lived configurations.
+
+### 4. Direction of Closure (toward Hg)
+- Hg acts as the **Möbius seam**.
+- All three loops converge here.
+- Applications:
+  - modeling boundary behavior,
+  - explaining anomalous physical properties,
+  - identifying “end‑states” of structural evolution.
+
+### 5. Direction of Forbidden States (structural gap)
+- One position cannot be occupied.
+- This defines:
+  - a structural zero,
+  - a symmetry break,
+  - a constraint on all possible configurations.
+- Applications:
+  - defining allowed vs. forbidden particle structures,
+  - mapping the limits of the system,
+  - identifying impossible states before simulation.
+
+### 6. Direction of Particle Construction
+- A particle can be represented as a **segment** of the Möbius path.
+- Direction determines:
+  - stability,
+  - decay,
+  - allowed transitions.
+- Applications:
+  - geometric particle modeling,
+  - structural simulation,
+  - mapping energy flow along the path.
