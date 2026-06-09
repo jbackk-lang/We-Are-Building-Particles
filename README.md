@@ -147,3 +147,90 @@ Pull requests are welcome.
 ## 8. License
 
 MIT License — free to use, modify, and build upon.
+
+## How to Read the 3×9 Map
+
+The 3×9 structure is not a chemical table. It is a geometric path.
+Each element represents a “state” on a triple‑twisted Möbius band.
+
+Key rules:
+
+1. **Continuity**
+   The sequence cannot be rearranged.  
+   Each position follows from the previous one, like walking along a Möbius strip.
+
+2. **Three Loops**
+   - Loop 1 (positions 1–9): stable, regular, low tension.
+   - Loop 2 (positions 10–18): stable but under structural tension.
+   - Loop 3 (positions 19–27): unstable, short‑lived, collapse‑prone.
+
+3. **Break Point (Tc)**
+   Tc (43) marks the first structural instability.
+   It is where continuity becomes strained.
+
+4. **Closure Point (Hg)**
+   Hg (80) acts as the seam of the Möbius band.
+   It connects all three loops into one continuous path.
+
+5. **Forbidden Position**
+   One structural position cannot be occupied by any element.
+   This is the “zero state” — the trace of the undivided origin.
+
+6. **Stability = Geometry**
+   Stability is determined by position on the path, not by classical chemistry.
+
+This map is a tool for understanding matter as a continuous structure.
+
+## Möbius Structure (ASCII Diagram)
+
+          ┌───────────────┐
+          │    LOOP 1      │
+          └───────┬───────┘
+                  │
+          ┌───────▼───────┐
+          │    LOOP 2      │
+          └───────┬───────┘
+                  │
+          ┌───────▼───────┐
+          │    LOOP 3      │
+          └───────┬───────┘
+                  │
+                (Hg)
+       (closure point / Möbius seam)
+
+## Examples: Building Particles from the 3×9 Structure
+
+### Example 1 — Why Tc (43) is unstable
+- Tc sits at the first structural break point.
+- It disrupts continuity between Loop 1 and Loop 2.
+- Any configuration containing Tc inherits instability.
+- This explains why Tc has no stable isotopes.
+
+### Example 2 — Why Hg (80) behaves like a closure state
+- Hg occupies the Möbius seam.
+- It connects all three loops into one continuous path.
+- This explains its unique physical behavior:
+  - liquid at room temperature,
+  - anomalous bonding,
+  - boundary‑like properties.
+
+### Example 3 — Allowed vs. Forbidden States
+- Stable configurations occur when states lie within Loop 1 or Loop 2.
+- Borderline configurations occur near the Loop 2 → Loop 3 transition.
+- Forbidden configurations occur at the structural gap (zero state).
+- This provides a geometric rule for predicting stability.
+
+### Example 4 — Constructing a “particle”
+A particle can be modeled as:
+- a segment of the Möbius path,
+- with defined curvature,
+- defined tension,
+- and allowed transitions.
+
+Stable particles correspond to:
+- continuous segments within Loop 1 or Loop 2.
+
+Unstable particles correspond to:
+- segments crossing into Loop 3.
+
+This gives a geometric method for modeling decay.
