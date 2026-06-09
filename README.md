@@ -59,9 +59,6 @@ This is not a chemical periodic table — it is a topological ordering
 |  Pd  (46)         |  Au  (79)         |  Rg  (111)        |
 |  Ag  (47)         |  Hg  (80)**       |  Cn  (112)        |
 +-------------------+-------------------+-------------------+
-
-
-
 Tc (43) — first structurally unstable state (“break point”).
 
 Hg (80) — closure point of the Möbius structure.
