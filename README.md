@@ -1,88 +1,95 @@
-1. What this map is for
-This project is not chemistry in the classical sense.
-It is a structural model that shows how particles and elements may organize themselves when viewed through geometry and topology, not through traditional atomic theory.
+4. What We Observed (Polish version condensed into English)
+1) Stability is geometric, not chemical
+The first two loops (18 states) are structurally stable.
+The third loop becomes progressively unstable.
 
-The key observation is simple:
+2) The sequence cannot be rearranged
+The order is fixed by continuity — like walking along a Möbius strip.
 
-Across different scales of the Universe, the same Möbius‑like pattern appears.
-in cosmic background spectra,
+3) Hg acts as a topological seam
+It closes the entire structure into a single continuous path.
 
-in the shapes of galaxies,
+4) One position is impossible
+This is the “trace” of the original undivided state — a structural zero.
 
-in the structure of planetary systems,
+5) The same Möbius‑like pattern appears at multiple scales
+cosmic background spectra,
 
-and finally — in the arrangement of elements themselves.
+galaxy spirals,
 
-This map is meant to explore that repeating pattern.
+planetary system geometry,
 
-2. The Möbius pattern in matter
-When elements are arranged not by chemical groups, but by:
+element structure.
 
-stability,
+This suggests a universal structural rule.
 
-continuity,
+5. What This Map Can Be Used For
+1) Building particles from geometry
+Instead of atomic orbitals, we use:
 
-structural behavior,
+position on the Möbius path,
 
-and “position” in the overall pattern,
+local curvature,
 
-they form a 3×9 sequence that behaves like a triple‑twisted Möbius band.
+structural tension,
 
-This structure has:
+continuity constraints.
 
-three continuous loops,
+2) Predicting allowed vs. forbidden states
+The map shows:
 
-one closure point,
+which configurations are stable,
 
-one forbidden point,
+which are borderline,
 
-and a clear progression from stable to unstable states.
+which must collapse,
 
-This is not a table — it is a path.
+which cannot exist at all.
 
-3. What we noticed
-• The first 9 elements
-Regular, stable, continuous — the “smooth” part of the Möbius band.
+3) Modeling transitions and decay
+Unstable positions naturally “fall back” along the Möbius path.
 
-• The second 9 elements
-Heavier, more complex, still continuous — the “tightened” part of the band.
+4) Exploring universal patterns
+The same geometry appears in:
 
-• The third 9 elements
-Short‑lived, unstable, structurally overloaded — the “twisted” end of the band.
+galactic rotation curves,
 
-• One element (Hg)
-Acts as a closure point — the seam where the Möbius structure loops back.
+spiral arms,
 
-• One position remains impossible
-A structural gap — a place no element can occupy.
-This is the trace of the original, undivided state before the pattern splits.
+orbital planes,
 
-4. What this map allows us to do
-Using this structure, we can:
+spectral distributions.
 
-build particles as geometric states,
+5) Educational and conceptual use
+A simple way to visualize matter as a continuous structure, not a table.
 
-test which configurations are allowed or forbidden,
+6. Why This Project Exists
+Because the classical periodic table explains chemistry,
+but it does not explain:
 
-understand stability as a position on the Möbius path,
+why stability clusters the way it does,
 
-see why some states collapse and others persist,
+why certain elements are impossible,
 
-and explore how matter organizes itself without relying on classical chemistry.
+why heavy elements collapse,
 
-This is a tool for constructing particles, not a chemical classification.
+why the Universe repeats the same geometric pattern.
 
-5. Why this matters
-If the same Möbius‑like geometry appears:
+This project is an attempt to map that deeper structure.
 
-in cosmic spectra,
+7. Contributing
+This is an open structural model.
+Anyone can:
 
-in galaxies,
+propose improvements,
 
-in planetary systems,
+add visualizations,
 
-and in the structure of elements,
+test stability rules,
 
-then the Universe may be using one repeating structural rule across all scales.
+explore geometric interpretations.
 
-This project is an attempt to map that rule and use it to build particles from geometry.
+Pull requests are welcome.
+
+8. License
+MIT License — free to use, modify, and build upon.
