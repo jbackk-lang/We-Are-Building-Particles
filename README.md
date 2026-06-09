@@ -183,20 +183,34 @@ This map is a tool for understanding matter as a continuous structure.
 
 ## Möbius Structure (ASCII Diagram)
 
-          ┌───────────────┐
-          │    LOOP 1      │
-          └───────┬───────┘
-                  │
-          ┌───────▼───────┐
-          │    LOOP 2      │
-          └───────┬───────┘
-                  │
-          ┌───────▼───────┐
-          │    LOOP 3      │
-          └───────┬───────┘
-                  │
-                (Hg)
-       (closure point / Möbius seam)
+                          ┌──────────────────────────┐
+                          │          LOOP 1           │
+                          │  Y  Zr  Nb  Mo  Tc* Ru Rh │
+                          │          Pd  Ag           │
+                          └─────────────┬─────────────┘
+                                        │
+                                        ▼
+                          ┌──────────────────────────┐
+                          │          LOOP 2           │
+                          │ Hf Ta  W  Re  Os  Ir  Pt │
+                          │          Au  Hg**         │
+                          └─────────────┬─────────────┘
+                                        │
+                                        ▼
+                          ┌──────────────────────────┐
+                          │          LOOP 3           │
+                          │ Rf Db Sg Bh Hs Mt Ds Rg  │
+                          │          Cn               │
+                          └─────────────┬─────────────┘
+                                        │
+                                        ▼
+                                      (Hg)
+                          Möbius seam / closure point
+
+Legend:
+*  Tc  — first instability (break point)
+** Hg  — Möbius closure (seam)
+
 
 ## Examples: Building Particles from the 3×9 Structure
 
