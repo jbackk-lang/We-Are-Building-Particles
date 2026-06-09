@@ -315,3 +315,5 @@ structural tendency.
   - geometric particle modeling,
   - structural simulation,
   - mapping energy flow along the path.
+
+https://doi.org/10.5281/zenodo.20613818
