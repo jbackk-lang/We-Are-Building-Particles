@@ -46,20 +46,17 @@ This behaves like a **triple Möbius band**:
 This is **not** a chemical periodic table — it is a **topological ordering**.
 
 ### Stable ASCII version (will not break on GitHub):
-
-+-------------------+-------------------+-------------------+
-|      LOOP 1       |      LOOP 2       |      LOOP 3       |
-+-------------------+-------------------+-------------------+
-|  Y   (39)         |  Hf  (72)         |  Rf  (104)        |
-|  Zr  (40)         |  Ta  (73)         |  Db  (105)        |
-|  Nb  (41)         |  W   (74)         |  Sg  (106)        |
-|  Mo  (42)         |  Re  (75)         |  Bh  (107)        |
-|  Tc  (43)*        |  Os  (76)         |  Hs  (108)        |
-|  Ru  (44)         |  Ir  (77)         |  Mt  (109)        |
-|  Rh  (45)         |  Pt  (78)         |  Ds  (110)        |
-|  Pd  (46)         |  Au  (79)         |  Rg  (111)        |
-|  Ag  (47)         |  Hg  (80)**       |  Cn  (112)        |
-+-------------------+-------------------+-------------------+
+| LOOP 1  | LOOP 2  | LOOP 3  |
+|--------|---------|---------|
+| Y  (39) | Hf (72) | Rf (104) |
+| Zr (40) | Ta (73) | Db (105) |
+| Nb (41) | W  (74) | Sg (106) |
+| Mo (42) | Re (75) | Bh (107) |
+| Tc (43)* | Os (76) | Hs (108) |
+| Ru (44) | Ir (77) | Mt (109) |
+| Rh (45) | Pt (78) | Ds (110) |
+| Pd (46) | Au (79) | Rg (111) |
+| Ag (47) | Hg (80)** | Cn (112) |
 
 **Legend:**
 - `*` — Tc = first structural instability (break point)
