@@ -44,9 +44,8 @@ and a clear progression from stable → unstable.
 
 3. The 3×9 Table (Structural Arrangement)
 Below is the structural map of 27 positions.
-This is not a chemical periodic table — it is a topological ordering.
+This is not a chemical periodic table — it is a topological ordering
 
-Kod
 ┌───────────────┬───────────────┬───────────────┐
 │   Loop 1       │    Loop 2      │    Loop 3      │
 ├───────────────┼───────────────┼───────────────┤
@@ -60,7 +59,8 @@ Kod
 │  Pd  (46)      │  Au  (79)      │  Rg  (111)     │
 │  Ag  (47)      │  Hg  (80)**    │  Cn  (112)     │
 └───────────────┴───────────────┴───────────────┘
-Special positions
+
+
 Tc (43) — first structurally unstable state (“break point”).
 
 Hg (80) — closure point of the Möbius structure.
