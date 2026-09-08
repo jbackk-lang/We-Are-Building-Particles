@@ -19,6 +19,7 @@ import uvicorn
 import numpy as np
 
 from timdr_market import TIMDRMarket, candles_from_ohlcv
+from timdr_market_trigger import MarketTrigger
 
 # ------------------ INICJALIZACJA ------------------
 app = FastAPI(
@@ -184,6 +185,11 @@ def compute_timdr_market_signals(data: dict) -> dict:
     slopes, _trend_z = market.trend_price(candles)
     periods, beacon_score = market.rhythm_volume(candles)
 
+    # Jedno priorytetyzowane zdarzenie (STRUCTURE > ANOMALY_VOLUME > RHYTHM
+    # > NONE) - patrz timdr_market_trigger.py. Uzywa tego samego `market`,
+    # zeby nie tworzyc drugiej instancji TIMDRMarket bez potrzeby.
+    trigger_result = MarketTrigger(market=market).analyze(candles).as_dict()
+
     def _points(idx, z, limit=5):
         # tylko ostatnie `limit` sygnalow (chronologicznie najnowsze) -
         # pelna tablica indeksow moze byc duza i malo czytelna w JSON
@@ -215,6 +221,7 @@ def compute_timdr_market_signals(data: dict) -> dict:
             "dominant_periods": [int(p) for p in periods],
             "beacon_score": round(beacon_score, 3),
         },
+        "trigger": trigger_result,
     }
 
 # ------------------ ENDPOINTY ------------------

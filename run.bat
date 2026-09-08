@@ -1,4 +1,5 @@
 @echo off
+cd /d "%~dp0"
 title TIMDR - Boundary-Matter Launcher
 echo ========================================
 echo   TIMDR - Boundary-Matter Launcher

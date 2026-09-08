@@ -190,6 +190,13 @@ if data:
         st.subheader("🌀 Sygnały TIMDR Market")
         st.caption("Twist ceny (nagłe zmiany), anomalie wolumenu, trend lokalny, rytm wolumenu")
 
+        trig = tm.get("trigger")
+        if trig and trig.get("triggered"):
+            loc_txt = f" (idx {trig['location']})" if trig.get("location") is not None else ""
+            st.warning(f"🚨 **{trig['type']}**{loc_txt} — {trig['message']}")
+        elif trig:
+            st.caption("✅ Trigger: brak wykrytego zdarzenia sygnałowego.")
+
         col1, col2, col3 = st.columns(3)
         col1.metric("Twist (nagłe zmiany ceny)", tm["twist"]["count"])
         col2.metric("Anomalie wolumenu", tm["anomaly_volume"]["count"])
